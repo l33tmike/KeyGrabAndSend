@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyGrabAndSend", "KeyGrabAndSend\KeyGrabAndSend.csproj", "{78D50004-E50B-4002-89CB-6A6C141209E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestHarness", "TestHarness\TestHarness.csproj", "{C80E654F-DAA2-4629-B9E2-A8332E606E93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78D50004-E50B-4002-89CB-6A6C141209E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78D50004-E50B-4002-89CB-6A6C141209E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78D50004-E50B-4002-89CB-6A6C141209E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78D50004-E50B-4002-89CB-6A6C141209E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C80E654F-DAA2-4629-B9E2-A8332E606E93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C80E654F-DAA2-4629-B9E2-A8332E606E93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C80E654F-DAA2-4629-B9E2-A8332E606E93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C80E654F-DAA2-4629-B9E2-A8332E606E93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
